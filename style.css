@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+header nav a{
+  margin-right: 10px;
+}
+
+#featured-property {
+  text-align: center;
+}
+
+#details {
+  background-color: red;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 30px;
+  text-align: center;
+}
